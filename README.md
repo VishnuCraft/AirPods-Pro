@@ -1,9 +1,10 @@
-# Apple AirPods Scroll 🚀  
+# <a href="https://air-pods-hreoprkqt-vishnucrafts-projects.vercel.app/">Apple AirPods Scroll</a> 🚀  
 
 A smooth scrolling animation effect inspired by Apple's **AirPods** website, built using **React.js, GSAP (GreenSock Animation Platform), and ScrollTrigger**.  
 
 ---
 
+**Live Demo:** **<a href="https://air-pods-hreoprkqt-vishnucrafts-projects.vercel.app/">Click Here</a>**
 ## 📌 Features  
 ✅ Apple-style smooth scrolling animation  
 ✅ AirPods showcase with interactive effects  
